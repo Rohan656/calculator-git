@@ -1,8 +1,8 @@
 // Addiing
-function sum(num1, num2) {
+function add(num1, num2) {
     return num1 + num2;
   }
-console.log(sum(2, 3));
+console.log(add(2, 3));
 // multiply
 function multiply(num3, num4) {
     return num3 * num4;
