@@ -1,13 +1,3 @@
-// Addiing
-function add(num1, num2) {
-    return num1 + num2;
-  }
-console.log(add(2, 3));
-// multiply
-function multiply(num3, num4) {
-    return num3 * num4;
-  }
-  console.log(multiply(2, 3));
 // Divide
 function divide(num5, num6) {
     return num5 / num6;
